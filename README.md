@@ -23,9 +23,12 @@ Fields on the form are
 - additional information
 
 The form also has a submit button. When the button is clicked a messagebox is displayed in which the address is shown in the format:
+
+```
 <additional information>
 <street name> <house number> <house number addition>
 <postal code>  <city>
+```
 
 ## Validations
 
