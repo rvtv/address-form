@@ -1,9 +1,15 @@
 # Assignment
 
-Create a web component based on LitHTML to enter a Dutch address. Display the web component on an HTML page. Use the provided (open-wc) project scaffolding as the basis. The project should include the specified unit tests.
+Create a web component based on LitHTML to enter a Dutch address. Display the web component on an HTML page.
+Use the provided (open-wc) project scaffolding as the basis. The project should include the specified unit tests.
 
-LitElement documentation: https://lit-element.polymer-project.org/guide
-Open Web Components testing helpers (setup is already done): https://open-wc.org/docs/testing/testing-package/#testing-helpers
+## Additional resources
+
++ [LitElement documentation](https://lit-element.polymer-project.org/guide)
++ [Open Web Components testing helpers](https://open-wc.org/docs/testing/testing-package/#testing-helpers)  
+  (Note: setup for testing is already done)
+
+## Run the project
 
 To run the project:
 - Install NodeJS >= v15
